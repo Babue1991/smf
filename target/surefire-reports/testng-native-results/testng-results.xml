@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="10" started-at="2021-10-18T18:57:06 IST" finished-at="2021-10-18T18:57:06 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="10" started-at="2021-10-18T18:57:06 IST" finished-at="2021-10-18T18:57:06 IST">
+      <class name="StepDefinition.TestSuiteSetUp">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:StepDefinition.TestSuiteSetUp@7a1ebcd8]" name="setupSuite" is-config="true" duration-ms="18" started-at="2021-10-18T18:57:06 IST" finished-at="2021-10-18T18:57:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:StepDefinition.TestSuiteSetUp@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-10-18T18:57:06 IST" finished-at="2021-10-18T18:57:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- StepDefinition.TestSuiteSetUp -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

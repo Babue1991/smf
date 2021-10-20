@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="138463" started-at="2021-09-29T16:02:56 IST" finished-at="2021-09-29T16:05:14 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="138463" started-at="2021-09-29T16:02:56 IST" finished-at="2021-09-29T16:05:14 IST">
+      <class name="SMF.SmallMovesFoundation.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="7" started-at="2021-09-29T16:05:14 IST" finished-at="2021-09-29T16:05:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- SMF.SmallMovesFoundation.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
